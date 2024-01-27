@@ -3,9 +3,9 @@
 In order to get started with Mappedme you need to go through 4 simple steps:
 
 1. [Configure domain](#Domain-configuration)
-2. [Test Instagram integration](#Instagram-integration)
-3. [Create a location](#Creating-location)
-4. [Create a location post](#Creating-post)
+2. [Test Instagram integration](#instagram-integration)
+3. [Create a location](#creating-location)
+4. [Create a location post](#creating-post)
 
 #### Domain configuration
 1. Select `New Domain` sidebar option.
@@ -25,15 +25,36 @@ Hit `Run Insta integration` button.
 You should receive a simillar result:  
 ![image](https://github.com/mappedme/docs/assets/157869436/acf594e9-a6ee-4af4-958c-fbfd94cf9284)
 
-Instagram integration is done in the backgorund and usaully it takes a few seconds. It is enough to do that once a day or after adding a new Instagram post. Do not run it too often as you Facebook app has Instagram API limits. 
+Instagram integration is done in the backgorund and usaully it takes a few seconds. It is enough to do that once a day or after adding a new Instagram post. Do not run it too often as your Facebook Instagram API app has tight request limits. 
 
 #### Creating location
 
 1. Select `Locations` sidebar option.
-2. Click on `Add` button in _Locations_ section
+2. Click on `Add` button in _Locations_ section.
 3. Fill location's _Name_, _Coordinates_ and _Description_ (optional) and hit `Submit` button.
 
-![image](https://github.com/mappedme/docs/assets/157869436/42776880-ceb6-4120-a3e7-61a74e409e76)
+![image](https://github.com/mappedme/docs/assets/157869436/1495895f-5763-44db-8495-6ca8cc4c158e)
 
+Once saved you location should be visibale on your map. Go to _mappedme.app/{yourDomainName}_
+
+![image](https://github.com/mappedme/docs/assets/157869436/fe9ef905-7a86-4bf3-97ab-7f20bfbe6339)
 
 #### Creating post
+
+1. Select location's `Posts` option
+   
+![image](https://github.com/mappedme/docs/assets/157869436/efe7360c-dd00-4517-bda3-858144aa419f)
+
+2. Click on `Add` button in Posts section.
+3. Copy your Instagram post full url
+   
+![image](https://github.com/mappedme/docs/assets/157869436/e61f6874-39e8-4dbd-85fe-094f8950c03e)
+
+4. Paste Instagram post url and hit `Submit`
+
+![image](https://github.com/mappedme/docs/assets/157869436/e70a42ed-ed02-41aa-bc41-429038743e7d)
+
+Once saved the photo be visibale on your map when you click on the post's location
+
+![image](https://github.com/mappedme/docs/assets/157869436/d138a3e0-d753-4697-b112-99fca35cc89c)
+
