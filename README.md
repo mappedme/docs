@@ -1,4 +1,4 @@
-### Mappedme startup guide
+## Mappedme startup guide
 
 In order to get started with Mappedme you need to go through 4 simple steps:
 
@@ -7,13 +7,13 @@ In order to get started with Mappedme you need to go through 4 simple steps:
 3. [Create a location](#creating-location)
 4. [Create a location post](#creating-post)
 
-#### Domain configuration
+### Domain configuration
 1. Select `New Domain` sidebar option.
 2. Fill `Domain name` (mandatory). Domain name is used to access your map via _mappedme.app_ domain. If you pick _sampleName_ your domain will be available via _mappedme.app/sampleName_
 3. Fill `Instagram profile name` (mandatory). Just your Instagram profile name , used to link to your Instagram profile page.
 4. `Instagram Basic Api Token`. Just copy and paste your generated token
 
-#### Instagram integration 
+### Instagram integration 
 
 1. Test basic Instagram integration.  
 Hit `Run Insta Test` button.  
@@ -27,7 +27,7 @@ You should receive a simillar result:
 
 Instagram integration is done in the backgorund and usaully it takes a few seconds. It is enough to do that once a day or after adding a new Instagram post. Do not run it too often as your Facebook Instagram API app has tight request limits. 
 
-#### Creating location
+### Creating location
 
 1. Select `Locations` sidebar option.
 2. Click on `Add` button in _Locations_ section.
@@ -39,7 +39,7 @@ Once saved you location should be visibale on your map. Go to _mappedme.app/{you
 
 ![image](https://github.com/mappedme/docs/assets/157869436/fe9ef905-7a86-4bf3-97ab-7f20bfbe6339)
 
-#### Creating post
+### Creating post
 
 1. Select location's `Posts` option
    
