@@ -47,14 +47,14 @@ Once saved you location should be visibale on your map. Go to _mappedme.app/{you
 
 2. Click on `Add` button in Posts section.
 3. Copy your Instagram post full url
-   
+
 ![image](https://github.com/mappedme/docs/assets/157869436/e61f6874-39e8-4dbd-85fe-094f8950c03e)
 
-4. Paste Instagram post url and hit `Submit`
+4. Paste Instagram post url and hit `Submit`   
 
 ![image](https://github.com/mappedme/docs/assets/157869436/e70a42ed-ed02-41aa-bc41-429038743e7d)
 
-Once saved the photo be visibale on your map when you click on the post's location
+Once saved the photo be visible on your map when you click on the post's location
 
 ![image](https://github.com/mappedme/docs/assets/157869436/d138a3e0-d753-4697-b112-99fca35cc89c)
 
