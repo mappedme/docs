@@ -57,5 +57,3 @@ Once saved you location should be visibale on your map. Go to _mappedme.app/{you
 Once saved the photo be visible on your map when you click on the post's location
 
 ![image](https://github.com/mappedme/docs/assets/157869436/d138a3e0-d753-4697-b112-99fca35cc89c)
-
-[Integration](./integration.md)
