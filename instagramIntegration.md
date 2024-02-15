@@ -1,5 +1,9 @@
 ### Instagram integration 
+- Go to your domain config and paste yout Instagram token
 
+![image](https://github.com/mappedme/docs/assets/157869436/24bbf2a8-3142-4c20-b825-2d0f324421c0)
+
+- navigate to `Instagram` manu option
 - Test basic Instagram integration.  
 Hit `Run Insta Test` button.  
 You should receive a simillar result:  
