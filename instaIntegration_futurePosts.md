@@ -1,7 +1,7 @@
-1. Use your existing location name  
-   or create a new one: [Create location](locationCreation.md)
+#### 1. Get location name
+Use your existing location name or create a new one: [Create location](locationCreation.md)
    
-3. Use location name and add it to you post description:
+#### 2. Add location name to you post description:
    
    *Example for Javorník location name:*
    
@@ -13,4 +13,4 @@
 
   ![image](https://github.com/mappedme/docs/assets/157869436/21df39d7-2c63-40dc-a845-0c20f1500f13)
   
-3. Your post will be assigned to your location during next Instagram integration
+#### 3. Your post will be assigned to your location during next Instagram integration
