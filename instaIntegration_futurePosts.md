@@ -1,4 +1,4 @@
-1. Use your location name  
+1. Use your existing location name  
    or create a new one: [Create location](locationCreation.md)
    
 3. Use location name and add it to you post description:

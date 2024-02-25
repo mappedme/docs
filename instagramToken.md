@@ -8,3 +8,9 @@
   [![Watch the video](https://img.youtube.com/vi/GTgRqayHnlE/default.jpg)](https://youtu.be/GTgRqayHnlE)
 
 2. Generate Instagram Basic Api Token
+
+- create Facebok App
+- generate Instagram Basic API token
+
+
+[![Watch the video](https://img.youtube.com/vi/YTcKLRlgjak/default.jpg)](https://youtu.be/YTcKLRlgjak)

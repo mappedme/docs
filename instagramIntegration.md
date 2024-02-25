@@ -3,7 +3,7 @@
 
 ![image](https://github.com/mappedme/docs/assets/157869436/24bbf2a8-3142-4c20-b825-2d0f324421c0)
 
-- navigate to `Instagram` manu option
+- navigate to `Instagram` menu option
 - Test basic Instagram integration.  
 Hit `Run Insta Test` button.  
 You should receive a simillar result:  
@@ -14,4 +14,4 @@ Hit `Run Insta integration` button.
 You should receive a simillar result:  
 ![image](https://github.com/mappedme/docs/assets/157869436/acf594e9-a6ee-4af4-958c-fbfd94cf9284)
 
-Instagram integration is done in the backgorund and usaully it takes a few seconds. It is enough to do that once a day or after adding a new Instagram post. Do not run it too often as your Facebook Instagram API app has tight request limits. 
+Instagram integration is done in the backgorund and usaully takes a few seconds. It is enough to do that once a day or after adding a new Instagram post. Do not run it too often as your Facebook Instagram API app has tight request limits. 
