@@ -12,10 +12,13 @@ In order to get started with Mappedme you need to go through a few simple steps:
 5. [Create location post](postCreation.md)
 
 ### Instagram posts integration
-1. Past Instagram posts  
-   This process require some manual work and cannot be fully automated. Contact us - we will do that for you.
+1. [Existing Instagram posts](instaIntegration_existingPosts.md)
 3. [Future Instagram posts](instaIntegration_futurePosts.md)
 
 ### Features and customization
 Wanna find out more about feature and customizations options?  
 Go to: [Features and customization](features.md)
+
+
+### How to
+[How to renew your Instagram Basic API Token](howto_token_renewal.md)
