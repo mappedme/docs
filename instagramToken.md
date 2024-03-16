@@ -9,7 +9,7 @@
 
 #### 2. Generate Instagram Basic Api Token
 
-- create Facebok App
-- generate Instagram Basic API token
+- Go to [Meta for developers page](https://developers.facebook.com/)
+- Generate Instagram Basic API token and configure Mappedme Instagram integration. Tutorial:
 
-[![Watch the video](https://img.youtube.com/vi/YTcKLRlgjak/default.jpg)](https://youtu.be/YTcKLRlgjak)
+[![Watch the video](https://img.youtube.com/vi/jHG_wiSltak/default.jpg)](https://youtu.be/jHG_wiSltak)

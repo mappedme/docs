@@ -6,5 +6,5 @@
 
 ![Alt text](image-6.png)
 
-This allows us to configure you new posts and locations in an automatic way. When the process is finished you can disable the setting so we cannot modify your posts and locations anymore.
+This allows us to configure your new posts and locations in an automatic way. When the process is finished you can disable the setting so we cannot modify your posts and locations anymore.
 
