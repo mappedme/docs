@@ -1,5 +1,8 @@
 ### Creating post
 
+This article describes a process of manual post creation.  
+If you would like to assign your posts to locations automatically during Instagram integraiton check out [this link](instaIntegration_futurePosts.md)
+
 - Select location's `Posts` option
    
 ![image](https://github.com/mappedme/docs/assets/157869436/efe7360c-dd00-4517-bda3-858144aa419f)

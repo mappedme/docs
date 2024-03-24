@@ -1,5 +1,9 @@
-### Creating location
+### Manual location creation
 
+This article describes a process of manual location creation.  
+If you would like to create location automatically during Instagram integraiton check out [this link](instaIntegration_futurePosts.md)
+
+To reate your location manually:
 - Select `Locations` sidebar option.
 - Click on `Add` button in _Locations_ section.
 - Fill location's _Name_, _Coordinates_ and _Description_ (optional) and hit `Submit` button.
