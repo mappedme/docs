@@ -39,7 +39,7 @@ If you would like to add a post to existing location pick its name from `Your lo
    
 #### 2. Add location marker to Instagram post
    
-- Add `📍 Javorník` to yout Instagram post description
+- Paste location marker into your Instagram post description so there is a separate line with location marker only.
 
   ![image](https://github.com/mappedme/docs/assets/157869436/2555d31c-54a7-4f89-b404-ccb89ae00ed8)
 
