@@ -3,12 +3,12 @@
 - Go to your domain and select Settings.   
 Enable _Use Instagram Login api_ option
 
-![token domain config](insta_token_domain_settings.png)
+![image](insta_token_domain_settings.png)
 
 - Go to your domain and select `Edit domain`.   
 Paste yout Instagram token
 
-![insta token config](insta_token_domain_details.png)
+![image](insta_token_domain_details.png)
 
 After you clicked `Submit` `Instagram user Id` should be filled.
 
