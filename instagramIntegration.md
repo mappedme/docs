@@ -1,13 +1,23 @@
 ### Instagram integration 
-- Go to your domain config and paste yout Instagram token
 
-![image](https://github.com/mappedme/docs/assets/157869436/24bbf2a8-3142-4c20-b825-2d0f324421c0)
+- Go to your domain and select Settings.   
+Enable _Use Instagram Login api_ option
+
+![image](insta_token_domain_settings.png)
+
+- Go to your domain and select `Edit domain`.   
+Paste yout Instagram token
+
+![image](insta_token_domain_details.png)
+
+After you clicked `Submit` `Instagram user Id` should be filled.
+
 
 - navigate to `Instagram` menu option
-- Test basic Instagram integration.  
+- Scroll to `Instagram integration` section.  
 Hit `Run Insta Test` button.  
-You should receive a simillar result:  
-![image](https://github.com/mappedme/docs/assets/157869436/5942c293-5fce-44a0-be96-8048e19f9f65)
+You should have `Insta test result` filled:  
+![image](insta_integration_test.png)
 
 - Start Instagram integration process.
 Hit `Run Insta integration` button.  
