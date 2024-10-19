@@ -3,12 +3,12 @@
 - Go to your domain and select Settings.   
 Enable _Use Instagram Login api_ option
 
-![image](./insta_token_domain_settings.png)
+![token domain config](insta_token_domain_settings.png)
 
 - Go to your domain and select `Edit domain`.   
 Paste yout Instagram token
 
-![image](./insta_token_domain_details.png)
+![insta token config](insta_token_domain_details.png)
 
 After you clicked `Submit` `Instagram user Id` should be filled.
 
@@ -17,7 +17,7 @@ After you clicked `Submit` `Instagram user Id` should be filled.
 - Scroll to `Instagram integration` section.  
 Hit `Run Insta Test` button.  
 You should have `Insta test result` filled:  
-![image](./insta_integration_test.png5)
+![image](insta_integration_test.png)
 
 - Start Instagram integration process.
 Hit `Run Insta integration` button.  
