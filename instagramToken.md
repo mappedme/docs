@@ -10,6 +10,6 @@
 #### 2. Generate Instagram Basic Api Token
 
 - Go to [Meta for developers page](https://developers.facebook.com/)
-- Generate Instagram Basic API token and configure Mappedme Instagram integration. Tutorial:
+- Generate Instagram API token and configure Mappedme Instagram integration. Tutorial:
 
-[![Watch the video](https://img.youtube.com/vi/jHG_wiSltak/default.jpg)](https://youtu.be/jHG_wiSltak)
+[![Watch the video](https://img.youtube.com/vi/4cBhbfUlnO0/default.jpg)](https://youtu.be/4cBhbfUlnO0)
