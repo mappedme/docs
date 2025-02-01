@@ -1,10 +1,5 @@
 ### Instagram integration 
 
-- Go to your domain and select Settings.   
-Enable _Use Instagram Login api_ option
-
-![image](insta_token_domain_settings.png)
-
 - Go to your domain and select `Edit domain`.   
 Paste yout Instagram token
 
