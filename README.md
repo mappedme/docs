@@ -19,6 +19,9 @@ In order to get started with Mappedme you need to go through a few simple steps:
 Wanna find out more about feature and customizations options?  
 Go to: [Features and customization](features.md)
 
+### Shared locations
+Wanna find out more about shared locations?  
+Go to: [Shared locations](shared_locations.md)
 
 ### How to
 [How to renew your Instagram Basic API Token](howto_token_renewal.md)
