@@ -18,14 +18,14 @@ Once saved you location should be visibale on your map. Go to _mappedme.app/{you
 
 Find location on locations' list and pick images icon:
 
-<img width="1276" height="585" alt="image" src="https://github.com/user-attachments/assets/ac06df63-4494-495d-8213-f96b55e23b90" />
+<img alt="image" src="https://github.com/user-attachments/assets/ac06df63-4494-495d-8213-f96b55e23b90" />
 
 
   
 Upload photos:  
 **Once updated refresh the page to see uploaded photos**  
 
-<img width="1288" height="488" alt="image" src="https://github.com/user-attachments/assets/ef6d0f79-24c5-478c-b5fb-35552a425bb4" />
+<img alt="image" src="https://github.com/user-attachments/assets/ef6d0f79-24c5-478c-b5fb-35552a425bb4" />
 
 
 
